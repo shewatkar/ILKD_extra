@@ -1,0 +1,4 @@
+Hello, I am charlie. I work as a software engineer at Red Hat on the linux kernel.
+
+A fun fact about me, is that in my free time I like to play the guitar.
+Linux cmirabil 6.0.9-300.fc37.x86_64 #1 SMP PREEMPT_DYNAMIC Wed Nov 16 17:36:22 UTC 2022 x86_64 x86_64 x86_64 GNU/Linux
