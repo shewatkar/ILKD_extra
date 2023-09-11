@@ -1,0 +1,3 @@
+Hi, my name is vishal patel and I am a software engineer at Teradyne. I am taking this class 
+to enhance my abilities with Linux Kernels as it relates to my job. 
+Linux vishals-fedora-vm 6.3.12-200.fc38.aarch64 #1 SMP PREEMPT_DYNAMIC Thu Jul  6 04:24:20 UTC 2023 aarch64 GNU/Linux
