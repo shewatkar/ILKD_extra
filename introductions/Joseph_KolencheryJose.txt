@@ -1,0 +1,9 @@
+I have very limited knowledge in Linux and Kernal development so I wanted to give this course an attempt.
+Also want to try and understand the operating system. A lot of people suggested taking Prof.Bills courses.
+His OS course was filled when I first tried for it so this was my only choice
+I recently enrolled for the OS course as well and they are letting me do a 4th course 
+this semester so im not dropping you guys. Please dont disappoint me boys xD. Just kidding!
+Hope we have a good few months together.
+My favourite icecream flavour is mango. Feel free to buy me one anytime. Not joking!
+Linux joseph-fedora-vm 6.4.14-200.fc38.x86_64 #1 SMP PREEMPT_DYNAMIC Sat Sep  2 16:36:06 UTC 2023 x86_64 GNU/Linux
+Linux joseph-fedora-vm 6.4.14-200.fc38.x86_64 #1 SMP PREEMPT_DYNAMIC Sat Sep  2 16:36:06 UTC 2023 x86_64 GNU/Linux
