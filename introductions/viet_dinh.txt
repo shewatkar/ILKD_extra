@@ -1,0 +1,6 @@
+Hello! I am Viet. I am a software engineer working on cloud applications at DellEMC.
+I've been working with docker and kubernetes in many projects which triggers my curiousity about what features of linux kernel is behind such amazing tools.
+And the more I get to know about linux kernel, the more I am fascinated about it. Therefore, I decided to take this class.
+
+A fun fact about me: I am also a gymer.
+Linux may-cua-viet 6.2.9-300.fc38.x86_64 #1 SMP PREEMPT_DYNAMIC Thu Mar 30 22:32:58 UTC 2023 x86_64 GNU/Linux
