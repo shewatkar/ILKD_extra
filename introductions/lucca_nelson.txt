@@ -1,0 +1,5 @@
+Hello, my name is Lucca Nelson! I'm a senior undergrad student at UMass Lowell studying computer science!
+
+My favorite passtime is the trading card game Magic: the Gathering. One fun fact about MtG is that,
+despite being a card game, it's Turing Complete! Look up "mtg turing complete" if you want your brain melted!
+Linux lucca-fedora-vm 6.4.14-200.fc38.x86_64 #1 SMP PREEMPT_DYNAMIC Sat Sep  2 16:36:06 UTC 2023 x86_64 GNU/Linux
