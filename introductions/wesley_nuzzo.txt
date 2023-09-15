@@ -1,0 +1,4 @@
+Hello, my name is Wesley Nuzzo. I am a Ph.D. student at UMass Lowell.
+
+My interests are mainly in programming languages and compiler construction.
+Linux wbn-fedora-vm 6.2.9-300.fc38.aarch64 #1 SMP PREEMPT_DYNAMIC Thu Mar 30 22:53:50 UTC 2023 aarch64 GNU/Linux
