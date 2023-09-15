@@ -1,0 +1,5 @@
+Hello, I am Nathan Wright.
+I am taking this class because I am interested in Linux and have been using it on all my devices.
+I specifically love NixOS because you cannot break it(that's a challenge).
+I would like to contribute to the community more and get involved.
+Linux kdlp-test-system 6.4.14-200.fc38.x86_64 #1 SMP PREEMPT_DYNAMIC Sat Sep  2 16:36:06 UTC 2023 x86_64 GNU/Linux
